@@ -1,0 +1,1 @@
+console.log("HANS TECHY Website Loaded Successfully");
